@@ -1,2 +1,2 @@
 # odin-recipes
-Work in progress.
+Very small collection of dessert recipes.
